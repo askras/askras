@@ -30,6 +30,8 @@ Russian-language Vue.js documentation. Includes up-to-date guides, code examples
 A LaTeX template for formatting dissertations according to the Higher Attestation Commission (VAK RF) requirements. Includes structure, styles, and automated list/reference generation.
 - **[Sphinx Book Theme](https://github.com/executablebooks/sphinx-book-theme)**  
 A Sphinx theme optimized for interactive books and textbooks. Supports embedded Jupyter Notebooks, cross-references, and responsive design.
+- **[VuejsInActionCode](https://github.com/ErikCH/VuejsInActionCode)**
+Companion repository for the book "Vue.js in Action"  by Erik Hanchett. Includes code examples and projects covering Vue.js fundamentals (templates, directives) to advanced topics (Vuex, Vue Router, testing). Designed for hands-on learning and practical implementation.  
 - **[VueJS Translations](https://github.com/vuejs-translations/docs-ru)**  
 A project translating Vue.js documentation into Russian. Includes official guides and materials from the Vue ecosystem.  
 - **[Watermark](https://github.com/rasbt/watermark)**  
