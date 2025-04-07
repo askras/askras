@@ -30,6 +30,8 @@
 Шаблон LaTeX для оформления диссертаций в соответствии с требованиями ВАК РФ. Включает структуру, стили, автоматическую генерацию списков и ссылок.
 - **[Sphinx Book Theme](https://github.com/executablebooks/sphinx-book-theme)**  
 Тема для Sphinx, оптимизированная под создание интерактивных книг и учебников. Поддерживает встроенные элементы Jupyter Notebook, кросс-ссылки и адаптивный дизайн.
+- **[VuejsInActionCode](https://github.com/ErikCH/VuejsInActionCode)**
+Сопроводительный репозиторий к книге "Vue.js in Action"  Эрика Ханчетта. Содержит примеры кода и проекты для изучения Vue.js: от базовых концепций (шаблоны, директивы) до продвинутых тем (Vuex, Vue Router, тестирование). Идеально для практико-ориентированного обучения. 
 - **[VueJS Translations](https://github.com/vuejs-translations/docs-ru)**  
 Проект перевода документации Vue.js на русский язык. Включает официальные руководства и материалы экосистемы Vue.
 - **[Watermark](https://github.com/rasbt/watermark)**  
