@@ -16,6 +16,8 @@ A LaTeX template for writing books and technical documentation. Built on the KOM
 A Python library for generating realistic test data (names, addresses, texts, dates, etc.). Supports multiple languages and locales. Simplifies testing and database population.
 - **[MkDocs](https://github.com/mkdocs/mkdocs)**  
 A static site generator for Markdown-based documentation. Easy to configure, with theme support (e.g., Material for MkDocs), plugins, and automated publishing. Perfect for project documentation.
+- **[nb](https://github.com/xwmx/nb)**
+A command-line tool for managing Markdown notes with Git integration. Enables note creation, encryption, tagging, and search, with synchronization via Git. Supports external editors (Vim, VS Code, etc.), cross-platform (Linux, macOS, Windows via WSL). Built with Bash and Git.  
 - **[ProGit2 Ru](https://github.com/progit/progit2-ru)**  
 The official Russian translation of the *Pro Git* book. A comprehensive guide to Git, covering everything from basic commands to advanced workflows. Recommended for developers of all levels.
 - **[Pygments](https://github.com/pygments/pygments)**  
