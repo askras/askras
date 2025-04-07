@@ -4,6 +4,8 @@
 
 - **[Carbon](https://github.com/carbon-app/carbon)**  
 Инструмент для создания красивых изображений исходного кода. Позволяет настраивать темы, шрифты, цвета и экспортировать результат в PNG/SVG. Используется для демонстрации кода в презентациях, статьях или соцсетях. Технологии: Electron, React, Node.js.
+- **[FlipHTML5-Downloader](https://github.com/mehmetabak/FlipHTML5-Downloader)**
+Утилита для загрузки цифровых брошюр и книг из FlipHTML5 (платформа для создания интерактивных flipbook-публикаций). Позволяет обходить ограничения на скачивание, сохранять контент в форматах PDF/HTML и извлекать изображения. Поддерживает командную строку, работает на Windows, macOS и Linux. Технологии: Python, Selenium, BeautifulSoup. 
 - **[Framework7](https://github.com/framework7io/framework7-website)**  
 Фреймворк для разработки мобильных и десктоп-приложений с нативным UI на HTML/CSS/JS. Поддерживает iOS, Android и Desktop, интегрируется с Vue, React или Svelte. Идеален для создания приложений с минимальной настройкой.
 - **[InstantCMS](https://github.com/instantsoft/icms2)**  
@@ -26,3 +28,7 @@
 Шаблон LaTeX для оформления диссертаций в соответствии с требованиями ВАК РФ. Включает структуру, стили, автоматическую генерацию списков и ссылок.
 - **[Sphinx Book Theme](https://github.com/executablebooks/sphinx-book-theme)**  
 Тема для Sphinx, оптимизированная под создание интерактивных книг и учебников. Поддерживает встроенные элементы Jupyter Notebook, кросс-ссылки и адаптивный дизайн.
+- **[VueJS Translations](https://github.com/vuejs-translations/docs-ru)**  
+Проект перевода документации Vue.js на русский язык. Включает официальные руководства и материалы экосистемы Vue.
+- **[Watermark](https://github.com/rasbt/watermark)**  
+Расширение Jupyter Notebook для вывода информации о версиях Python, библиотек и даты выполнения. Помогает обеспечить воспроизводимость исследований.
