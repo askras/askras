@@ -5,7 +5,7 @@
 - **[Carbon](https://github.com/carbon-app/carbon)**  
 A tool for creating visually appealing images of source code. Allows customization of themes, fonts, colors, and exports results to PNG/SVG. Used for showcasing code in presentations, articles, or social media. Built with: Electron, React, Node.js.
 - **[FlipHTML5-Downloader](https://github.com/mehmetabak/FlipHTML5-Downloader)**
-Утилита для загрузки цифровых брошюр и книг из FlipHTML5 (платформа для создания интерактивных flipbook-публикаций). Позволяет обходить ограничения на скачивание, сохранять контент в форматах PDF/HTML и извлекать изображения. Поддерживает командную строку, работает на Windows, macOS и Linux. Технологии: Python, Selenium, BeautifulSoup.  
+A tool for downloading digital brochures and books from FlipHTML5 (a platform for creating interactive flipbook publications). Bypasses download restrictions to save content as PDF/HTML and extract images. Command-line utility compatible with Windows, macOS, and Linux. Built with Python, Selenium, and BeautifulSoup.
 - **[Framework7](https://github.com/framework7io/framework7-website)**  
 A framework for building mobile and desktop apps with native-like UIs using HTML/CSS/JS. Supports iOS, Android, and desktop platforms, with integrations for Vue, React, or Svelte. Ideal for apps requiring minimal setup.
 - **[InstantCMS](https://github.com/instantsoft/icms2)**  
@@ -29,9 +29,9 @@ A LaTeX template for formatting dissertations according to the Higher Attestatio
 - **[Sphinx Book Theme](https://github.com/executablebooks/sphinx-book-theme)**  
 A Sphinx theme optimized for interactive books and textbooks. Supports embedded Jupyter Notebooks, cross-references, and responsive design.
 - **[VueJS Translations](https://github.com/vuejs-translations/docs-ru)**  
-Проект перевода документации Vue.js на русский язык. Включает официальные руководства и материалы экосистемы Vue.
+A project translating Vue.js documentation into Russian. Includes official guides and materials from the Vue ecosystem.  
 - **[Watermark](https://github.com/rasbt/watermark)**  
-Расширение Jupyter Notebook для вывода информации о версиях Python, библиотек и даты выполнения. Помогает обеспечить воспроизводимость исследований.
+A Jupyter Notebook extension that displays version information for Python, libraries, and execution dates. Helps ensure research reproducibility.
 
 <!--
 Here are some ideas to get you started:
